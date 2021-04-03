@@ -21,7 +21,7 @@ Contributions are more than welcome and we encourage pair programming .
 - [Excel to JSON](#excel-to-json)
 - [Mobile Application](#mobile-application)
 - [Authenication](#authenication)
-- [Contributing](#invoice-generator)
+- [Invoice generator](#invoice-generator)
 - [Certificate Generator ](#certificate-generator)
 - [Sitemap Builder](#sitemap-builder)
 
