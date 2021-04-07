@@ -12,7 +12,7 @@ Contributions are more than welcome, if you have other ideas feel free to add th
 We are open to any Idea, however for those who are in need of project ideas, we made you this list!
 
 # Table of Contents
-- [Portflio website](#portfolio-website)
+- [Portfolio website](#portfolio-website)
 - [Simple Dashboard](#simple-dashboard)
 - [Preloader](#preloader)
 - [Certificate Generator ](#certificate-generator)
