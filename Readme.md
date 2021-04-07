@@ -129,7 +129,7 @@ We are open to any Idea, however for those who are in need of project ideas, we 
 
 ## Adding GitHub OAuth 
 - Description:  Add login to our website using Github's OAuth
-- Language: JavaScript (React , Redux).
+- Language: JavaScript (React , Redux, Redux-Saga).
 - Difficulty: hard
 - Mentoring: yes  
 
