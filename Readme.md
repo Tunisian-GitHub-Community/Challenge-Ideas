@@ -1,3 +1,4 @@
+
 ![Alt text](Banner.png?raw=true "Banner")
 
 
@@ -6,17 +7,18 @@ We organize monthly challenges that are open to all Students across Tunisia, wit
 Stop Talking, Start Coding.  
  Get to know us better  [Our Website](https://githubtunisia.tech) .
 
-### Project Ideas 
-We are open to any Idea , however for those who are in need of project ideas, we made this list!
+### Contributions :  
 Contributions are more than welcome, if you have other ideas feel free to add them.
-
+We are open to any Idea, however for those who are in need of project ideas, we made you this list!
 
 # Table of Contents
 
 - [Certificate Generator ](#certificate-generator)
 - [Discord Bot](#discord-bot)
 -  [Login Page ](#login-page)
+- [TO-DO List](#to-do-list)
 - [Invoice Generator](#invoice-generator)
+- [KNN Classifier](#knn-classifier)
 - [Mobile Application](#mobile-application)
 - [Sitemap Builder](#sitemap-builder)
 - [Excel to JSON CLI](#excel-to-json-cli)
@@ -56,6 +58,18 @@ Contributions are more than welcome, if you have other ideas feel free to add th
 |[Install tailwind](https://tailwindcss.com/docs/guides/create-react-app)| docs |
 |[tailwind project](https://www.youtube.com/watch?v=hRFbqdJKRvQ&ab_channel=CodingTheSmartWay.com)| youtube tutorial |
 
+## TO-DO List
+- Description : Interactive lists where users can add, edit, delete, and move items.
+- Language: javaScript
+- Difficulty: easy
+- Mentorin : yes  
+
+| Useful Links | Type |  
+|:----------------:|:----:|
+|[w3schools](https://www.w3schools.com/howto/howto_js_todolist.asp)| blog tutorial |
+|[Live Coding](https://www.youtube.com/watch?v=b8sUhU_eq3g&ab_channel=CodeExplained)| youtube tutorial |
+
+
 ## Invoice Generator
 - Description : Invoice generator (PDF).
 - Language: any
@@ -72,6 +86,17 @@ Contributions are more than welcome, if you have other ideas feel free to add th
 - Language: Flutter /Java /Kotlin
 - Difficulty: meduim
 
+## KNN Classifier
+- Description: The KNN classifier is a supervised machine learning technique.
+- Language: python
+- Difficulty: meduim
+
+| Useful Links | Type |  
+|:----------------:|:----:|
+|[explanation](https://www.youtube.com/watch?v=4HKqjENq9OU&ab_channel=Simplilearn)| youtube |
+|[project](https://towardsdatascience.com/clear-understanding-of-a-knn-classifier-with-a-project-for-the-beginners-865f56aaf58f)| blog tutorial |
+
+
 ## Sitemap Builder
 - Description:  Creating Sitemap of any public websites URL.
 - Language: Any.
@@ -83,6 +108,12 @@ Contributions are more than welcome, if you have other ideas feel free to add th
 - Language: any
 - Difficulty: meduim
 - Mentoring: yes
+
+| Useful Links | Type |  
+|:----------------:|:----:|
+|[NPM module](https://www.npmjs.com/package/convert-excel-to-json)| docs |
+|[project](https://medium.com/swlh/how-to-convert-excel-data-into-json-object-using-javascript-1c4e0d3e97ee)| blog tutorial |
+
 
 ## Adding GitHub OAuth 
 - Description:  Add login to our website using Github's OAuth
