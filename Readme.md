@@ -82,9 +82,20 @@ We are open to any Idea, however for those who are in need of project ideas, we 
 |[In nodeJS](https://medium.com/@devops6.01/a-nodejs-based-invoice-generator-package-370c2cda47f6)| medium article |
 
 ## Mobile Application
-- Description: Mobile App for movie cards.
-- Language: Flutter /Java /Kotlin
+- Description: A mobile app to list movie cards using a public API.
+- Language: Flutter /Java /Kotlin/ JavaScirpt
 - Difficulty: meduim
+
+
+##  Visualize a Kaggle dataset
+- Description: Write a jupyter document to visualize a dataset downloaded from kaggle.
+- Language: python(pandas,matplotlib)
+- Difficulty: meduim
+
+| Useful Links | Type |  
+|:----------------:|:----:|
+|[Live Coding](https://www.youtube.com/watch?v=oflixU6iNDc&ab_channel=ArpanPathak)| youtube |
+|[Live Coding](https://www.youtube.com/watch?v=oflixU6iNDc&ab_channel=ArpanPathak)| youtube |
 
 ## KNN Classifier
 - Description: The KNN classifier is a supervised machine learning technique.
