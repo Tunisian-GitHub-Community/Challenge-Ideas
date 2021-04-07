@@ -18,6 +18,7 @@ We are open to any Idea, however for those who are in need of project ideas, we 
 -  [Login Page ](#login-page)
 - [TO-DO List](#to-do-list)
 - [Invoice Generator](#invoice-generator)
+- [Visualize a Dataset](#visualize-a-kaggle-dataset)
 - [KNN Classifier](#knn-classifier)
 - [Mobile Application](#mobile-application)
 - [Sitemap Builder](#sitemap-builder)
