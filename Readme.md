@@ -12,7 +12,9 @@ Contributions are more than welcome, if you have other ideas feel free to add th
 We are open to any Idea, however for those who are in need of project ideas, we made you this list!
 
 # Table of Contents
-
+- [Portflio website](#portfolio-website)
+- [Simple Dashboard](#simple-dashboard)
+- [Preloader](#preloader)
 - [Certificate Generator ](#certificate-generator)
 - [Discord Bot](#discord-bot)
 -  [Login Page ](#login-page)
@@ -21,10 +23,31 @@ We are open to any Idea, however for those who are in need of project ideas, we 
 - [Visualize a Dataset](#visualize-a-kaggle-dataset)
 - [KNN Classifier](#knn-classifier)
 - [Mobile Application](#mobile-application)
+- [Open Applications](#open-applications)
 - [Sitemap Builder](#sitemap-builder)
 - [Excel to JSON CLI](#excel-to-json-cli)
 - [Adding GitHub OAuth](#adding-github-oauth)
 
+
+##
+
+## Portfolio Website 
+- Description:  Portfolio Website 
+- Language: Html , CSS (Javascript is Optional) with Boostrap or Tailwind CSS .
+- Difficulty: easy 
+- Mentoring: yes  
+
+## Simple Dashboard 
+- Description: a Simple Dashboard "redesign" for [the Virtual University of  Tunis](https://us.uvt.tn)
+- Language : Html + sass (any Css framework is optional).
+- Diffculty: easy 
+- Mentoring: yes 
+
+## Preloader 
+- Description: a unique preloader for our website. 
+- Language : Html + css (animating with css).
+- Diffculty: easy 
+- Mentoring: yes 
 
 ## Certificate Generator 
 - Description: Certificate generator (PDF).
@@ -87,6 +110,16 @@ We are open to any Idea, however for those who are in need of project ideas, we 
 - Language: Flutter /Java /Kotlin/ JavaScirpt
 - Difficulty: meduim
 
+## Open Applications
+- Description : Opening Applications for example 
+> Example : typing in the CLI "movies" opens up netflix , increase volume and Imdb page.
+- Language: any
+- Difficulty : medium 
+
+| Useful Links | Type |  
+|:----------------:|:----:|
+|[in Python](https://www.geeksforgeeks.org/open-applications-using-python/)| Article |
+|[in Java](https://javaconceptoftheday.com/how-to-launch-external-applications-through-java-program/)| Article |
 
 ##  Visualize a Kaggle dataset
 - Description: Write a jupyter document to visualize a dataset downloaded from kaggle.
@@ -132,6 +165,7 @@ We are open to any Idea, however for those who are in need of project ideas, we 
 - Language: JavaScript (React , Redux, Redux-Saga).
 - Difficulty: hard
 - Mentoring: yes  
+
 
 
 # How to join our Challenge and become a member ?
