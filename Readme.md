@@ -5,7 +5,7 @@
 ## Core Concept : 
 We organize monthly challenges that are open to all Students across Tunisia, with the goal of encouraging students to expand their knowledge and improve their technical skills. 
 Stop Talking, Start Coding.  
- Get to know us better  [Our Website](https://githubtunisia.tech) .
+ Get to know us better  [Our Website](https://www.githubtunisia.tn/) .
 
 ### Contributions :  
 Contributions are more than welcome, if you have other ideas feel free to add them.
